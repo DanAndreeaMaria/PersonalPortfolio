@@ -24,7 +24,7 @@ function Certificates() {
     ];
 
     return (
-        <section id="certificates" className="py-20 bg-gray-950 text-white px-6">
+        <section id="certificates" className="py-20 bg-gray-900 text-white px-6">
             <motion.div 
                 className="max-w-6xl mx-auto text-center"
                 initial={{ opacity: 0, y: 40 }}

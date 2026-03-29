@@ -71,7 +71,7 @@ function Projects() {
     ];
 
     return (
-        <section id="projects" className="py-20 bg-gray-900 text-white px-6">
+        <section id="projects" className="py-20 bg-gray-950 text-white px-6">
             <motion.div 
                 className="max-w-2xl mx-auto text-center"
                 initial={{ opacity: 0, y: 40 }}
