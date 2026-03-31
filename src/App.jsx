@@ -11,7 +11,7 @@ import Divider from "./components/Divider";
 
 function App() {
   return (
-    <div>
+    <div id="top">
       <Navbar />
       <Hero />
       <Divider />
@@ -28,6 +28,11 @@ function App() {
       <Contact />
       <Divider />
       <Footer />
+      <a href="#top"
+        className="fixed bottom-6 right-6 bg-white text-gray-900 px-4 py-2 rounded-lg shadow-lg hover:bg-blue-950 hover:text-white transition"
+      >
+        ↑
+      </a>
     </div>
   );
 }

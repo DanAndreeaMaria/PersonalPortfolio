@@ -32,11 +32,19 @@ function Hero() {
                 </a>
 
                 <a 
-                    href="https://github.com/DanAndreeaMaria"
+                    href="https://github.com/DanAndreeaMaria?tab=repositories"
                     target="_blank"
                     className="border border-gray-600 px-6 py-3 rounded-lg hover:bg-gray-800 transition"
                 >
                     GitHub
+                </a>
+
+                <a 
+                    href="resume/resume.pdf"
+                    download
+                    className="bg-white text-black px-6 py-3 rounded-lg font-medium transition hover:scale-105 hover:shadow-xl"
+                >
+                    Download CV
                 </a>
 
             </div>

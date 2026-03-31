@@ -22,14 +22,6 @@ function Contact() {
                     </a>
 
                     <a 
-                        href="https://github.com/danandreeamaria"
-                        target="_blank"
-                        className="border border-gray-600 px-6 py-3 rounded-lg hover:bg-gray-800 transition"
-                    >
-                        GitHub
-                    </a>
-
-                    <a 
                         href="https://www.linkedin.com/in/andreea-maria-dan/"
                         target="_blank"
                         className="border border-gray-600 px-6 py-3 rounded-lg hover:bg-gray-800 transition"
