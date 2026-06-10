@@ -4,8 +4,9 @@ function About() {
             <div className="max-w-4xl mx-auto text-center">
                 <h2 className="text-3xl font-bold mb-4">About Me</h2>
                 <p className="text-gray-400 text-lg">
-                    Hi, I'm Andreea — a self-taught web developer passionate about creating responsive and modern web experiences. 
-                    Since 2022, I've dedicated myself to learning and building real-world projects that solve problems and showcase creativity.
+                    Hi, I'm Andreea — a junior full-stack web developer with hands-on experience building web applications using 
+                    JavaScript, React, Python, Flask, and Django. Since transitioning into software development, I've built full-stack 
+                    and frontend projects focused on responsive design, user experience, and practical functionality.
                 </p>
             </div>
         </section>

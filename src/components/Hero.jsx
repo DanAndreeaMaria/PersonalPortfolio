@@ -20,7 +20,7 @@ function Hero() {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.5 }}
             >
-                Aspiring Web Developer
+                Junior Full-Stack Web Developer
             </motion.p>
 
             <div className="mt-8 flex justify-center gap-4">
