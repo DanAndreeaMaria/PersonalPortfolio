@@ -3,6 +3,22 @@ import { motion } from "framer-motion";
 function Projects() {
     const projects = [
         {
+            name: "ChefMate - AI Cooking Assistant",
+            description: "ChefMate is an AI-powered cooking assistant responsive web application built with Django and OpenRouter that helps users decide what they can cook based on the ingredients they already have.",
+            tech: ["HTML", "CSS", "JavaScript", "Python", "Django", "SQLite", "OpenRouterAPI", "Git", "GitHub"],
+            github: "https://github.com/DanAndreeaMaria/ChefMate",
+            features: [
+                "Responsive design",
+                "Modern layout",
+                "Recipe management",
+                "AI Cooking Assistant",
+                "Smart Grocery list",
+                "Ingredient substitutions"
+            ],
+            image: "/projects/omnifood.png",
+            demo: "https://omnifood-andreea.netlify.app/"
+        },
+        {
             name: "Sweet 3 Generation Website",
             description: "Business presentation website for a local cake shop. Designed and developed from scratch, including responsive design, SEO best practices, Google Maps integration and deployment.",
             tech: ["HTML", "CSS", "JavaScript"],
@@ -14,8 +30,7 @@ function Projects() {
                 "Responsive design",
                 "Hosting & deployment"
             ],
-            image: "/projects/sweet3gen.png",
-            demo: "https://www.sweet3generation.ro"
+            image: "/projects/",
         },
         {
             name: "Omnifood Landing Page",
