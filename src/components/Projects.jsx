@@ -3,11 +3,12 @@ import { motion } from "framer-motion";
 function Projects() {
     const projects = [
         {
-            name: "ChefMate - AI Cooking Assistant",
+            name: "ChefMate - Agentic AI Cooking Assistant",
             description: "ChefMate is an AI-powered cooking assistant responsive web application built with Django and OpenRouter that helps users decide what they can cook based on the ingredients they already have.",
             tech: ["HTML", "CSS", "JavaScript", "Python", "Django", "SQLite", "OpenRouterAPI", "Git", "GitHub"],
             github: "https://github.com/DanAndreeaMaria/ChefMate",
             features: [
+                "Agentic AI",
                 "Responsive design",
                 "Modern layout",
                 "Recipe management",
