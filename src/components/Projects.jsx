@@ -15,8 +15,7 @@ function Projects() {
                 "Smart Grocery list",
                 "Ingredient substitutions"
             ],
-            image: "/projects/omnifood.png",
-            demo: "https://omnifood-andreea.netlify.app/"
+            image: "/projects/ChefMate.png",
         },
         {
             name: "Sweet 3 Generation Website",
@@ -30,7 +29,8 @@ function Projects() {
                 "Responsive design",
                 "Hosting & deployment"
             ],
-            image: "/projects/",
+            image: "/projects/sweet3gen.png",
+            demo: "https://www.sweet3generation.ro"
         },
         {
             name: "Omnifood Landing Page",
